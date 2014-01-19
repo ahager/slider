@@ -3,4 +3,4 @@ slider
 
 example project
 
-*** test ***
+***test***
