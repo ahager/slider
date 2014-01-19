@@ -2,3 +2,5 @@ slider
 ======
 
 example project
+
+*** test ***
